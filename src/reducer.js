@@ -1,5 +1,5 @@
 export const initialState = {
-  recipient: 'World'
+  facts: []
 };
 
 export const reducer = (state = initialState, action) => {
